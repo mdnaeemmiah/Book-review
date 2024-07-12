@@ -1,0 +1,81 @@
+[
+    {
+      "bookId": 1,
+      "bookName": "The Great Gatsby",
+      "author": "F. Scott Fitzgerald",
+      "image": "https://i.ibb.co/xHGQBs1/sincerely-media-Dg-Qf1d-UKUTM-unsplash.jpg",
+      "review": "A classic novel of the Jazz Age, exploring themes of decadence and excess.",
+      "totalPages": 218,
+      "rating": 4.5,
+      "category": "Fiction",
+      "tags": ["Classic", "American Literature"],
+      "publisher": "Charles Scribner's Sons",
+      "yearOfPublishing": 1925
+    },
+    {
+      "bookId": 2,
+      "bookName": "To Kill a Mockingbird",
+      "author": "Harper Lee",
+      "image": "https://i.ibb.co/6FbWFwr/daria-nepriakhina-x-Y55b-L5m-ZAM-unsplash.jpg",
+      "review": "A profound novel on racial injustice and moral growth.",
+      "totalPages": 324,
+      "rating": 4.8,
+      "category": "Fiction",
+      "tags": ["Classic", "Historical"],
+      "publisher": "J.B. Lippincott & Co.",
+      "yearOfPublishing": 1960
+    },
+    {
+      "bookId": 3,
+      "bookName": "1984",
+      "author": "George Orwell",
+      "image": "https://i.ibb.co/nbVk4rJ/julia-kicova-g827-ZOCwt30-unsplash.jpg",
+      "review": "A dystopian novel about totalitarianism and surveillance.",
+      "totalPages": 328,
+      "rating": 4.6,
+      "category": "Dystopian",
+      "tags": ["Dystopia", "Political Fiction"],
+      "publisher": "Secker & Warburg",
+      "yearOfPublishing": 1949
+    },
+    {
+      "bookId": 4,
+      "bookName": "Pride and Prejudice",
+      "author": "Jane Austen",
+      "image": "https://i.ibb.co/nMhYJDs/olesia-buyar-ZD03q-Vh-BJZg-unsplash.jpg",
+      "review": "A timeless romantic novel about manners and marriage in early 19th century England.",
+      "totalPages": 279,
+      "rating": 4.7,
+      "category": "Romance",
+      "tags": ["Classic", "Romance"],
+      "publisher": "T. Egerton, Whitehall",
+      "yearOfPublishing": 1813
+    },
+    {
+      "bookId": 5,
+      "bookName": "The Catcher in the Rye",
+      "author": "J.D. Salinger",
+      "image": "https://i.ibb.co/1rxMm2M/jaredd-craig-HH4-WBGNyltc-unsplash.jpg",
+      "review": "A novel about teenage rebellion and alienation.",
+      "totalPages": 214,
+      "rating": 4.3,
+      "category": "Fiction",
+      "tags": ["Classic", "Coming of Age"],
+      "publisher": "Little, Brown and Company",
+      "yearOfPublishing": 1951
+    },
+    {
+      "bookId": 6,
+      "bookName": "The Hobbit",
+      "author": "J.R.R. Tolkien",
+      "image": "https://i.ibb.co/qDNSqmK/studio-media-9-Da-OYUYn-Ols-unsplash.jpg",
+      "review": "A fantasy novel about the adventures of Bilbo Baggins.",
+      "totalPages": 310,
+      "rating": 4.8,
+      "category": "Fantasy",
+      "tags": ["Fantasy", "Adventure"],
+      "publisher": "George Allen & Unwin",
+      "yearOfPublishing": 1937
+    }
+  ]
+  
